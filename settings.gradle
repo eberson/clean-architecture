@@ -1,0 +1,9 @@
+rootProject.name = 'clean-challlenge'
+include 'enterprise'
+include 'application'
+include 'adapters'
+include 'database'
+include 'api'
+include 'startup'
+include 'common-domain'
+

@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group = 'br.com.clean.architecture'
+version = '1.0.0-SNAPSHOT'
